@@ -1,0 +1,51 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Depilação - Estética - Beleza
+
+### Title
+tour.name = GioLaser | Djalma Batista
+
+## Skin
+
+### Button
+Button_C245C239_D2C4_16B6_41DE_30825AEB1594.label = AGENDE SEU HORÁRIO
+Button_DDB71E19_D2C4_2E76_41E3_1C461BA86027_mobile.label = AGENDE SEU HORÁRIO
+
+## Media
+
+### Title
+panorama_206CF690_2C83_5BC6_41B8_D11C44B47250.label = 02
+panorama_206D020D_2C82_BADE_41C4_9342C032055D.label = 07 - Sala de atendimento 02
+panorama_206D023C_2C83_DB3D_41B4_98C55E653621.label = 03
+panorama_206D05B3_2C83_79CB_41B3_BAD43575DC45.label = 06
+panorama_206D1EA2_2C82_EBC5_41AF_273CAF664E42.label = 08 - Sala de Atendimento 01
+panorama_206D4A40_2C83_AB45_419D_86AC01F6DA08.label = 05
+panorama_206D7ABE_2C82_AB3A_41C5_C6BC1BDB4CD3.label = 09 - Sala de Atendimento 03
+panorama_206DDF66_2C83_E94A_41B9_6B20E506F56E.label = 04
+panorama_206ED687_2C81_5BCB_41AE_58BE4CB04CE2.label = 10 - Sala de Avaliação
+panorama_21B2655A_2C83_5945_41C2_261452602FE8.label = 01
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_3804280A_2C87_F6DA_4194_025C8EBACC68.toolTip = ENTRAR
+HotspotPanoramaOverlayArea_3837C03A_2C86_B6C5_419C_BC5C63869F38.toolTip = ENTRAR
+HotspotPanoramaOverlayArea_383E7BDD_2C86_A97F_41B7_141744007C67.toolTip = ENTRAR
+HotspotPanoramaOverlayArea_383E9D52_2C87_A945_41A4_D3D90360AD13.toolTip = ENTRAR
+HotspotPanoramaOverlayArea_3982A9E9_2C83_6946_4188_81226260D085.toolTip = SAIR
+HotspotPanoramaOverlayArea_39AE498D_2C82_A9DF_41C5_8D35FBAADF88.toolTip = SAIR
+HotspotPanoramaOverlayArea_39BCBFAF_2C82_A9DB_41BF_77C9A4A6B82B.toolTip = SAIR
+HotspotPanoramaOverlayArea_39DB952E_2C83_DEDA_41BC_253CD7F553A1.toolTip = ENTRAR
+
+## Action
+
+### URL
+LinkBehaviour_3FDF1079_2C87_7739_41BE_7659216E215B.source = https://wa.link/1vooff
+LinkBehaviour_C29EA4F2_D2DC_13BA_41C8_9311CE135962.source = https://wa.link/1vooff
+LinkBehaviour_C5D43566_D35C_12DA_41E2_6B88BFA5C846.source = https://linktr.ee/kinsushibar_
+LinkBehaviour_DC894F3C_D386_A0E0_41B6_E9210C573574.source = https://maps.app.goo.gl/gbC97QXng9LcFrd67
+LinkBehaviour_DDD50074_D386_E160_41C2_8A77F0A5BB31.source = https://wa.link/1vooff
+LinkBehaviour_DDEEB30F_D386_E0A0_41E4_558A4E8055C9.source = https://www.instagram.com/giolasermanausdjalmabatista/
