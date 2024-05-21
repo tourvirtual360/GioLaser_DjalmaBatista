@@ -1,7 +1,8 @@
 {
+ "start_url": "index.htm",
  "name": "GioLaser | Djalma Batista",
+ "theme_color": "#FFFFFF",
  "description": "Depilação - Estética - Beleza",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -39,7 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "display": "fullscreen"
 }
